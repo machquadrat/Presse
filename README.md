@@ -1,6 +1,7 @@
  Ein Hackerspace für Gleisdorf.
 
-Seit Dezember 2018 widmen eine Hand voll Technikfreaks, Tüftler und Bastler jede freie Minute einem ehrgeizigen Projekt: „machquadrat“.  Vor noch nicht einmal sechs Wochen existierte dieser so getaufte Hackerspace nur in den Köpfen und Herzen einiger weniger Personen, doch seitdem rückt man dem Traum eines eigenen kreativen Zentrums und Raumes stetig näher. 
+Seit Dezember 2018 widmen eine Hand voll Technikfreaks, Tüftler und Bastler jede freie Minute einem ehrgeizigen Projekt: „machquadrat“.
+Vor noch nicht einmal sechs Wochen existierte dieser so getaufte Hackerspace nur in den Köpfen und Herzen einiger weniger Personen, doch seitdem rückt man dem Traum eines eigenen kreativen Zentrums und Raumes stetig näher. 
 
 Die Initiatoren des Projektes möchten aus dem Treffpunkt einen Ort machen, an dem sich kreative Köpfe aus den unterschiedlichsten Bereichen zusammen finden, um spielerisch Innovationen im technisch-kulturellen Bereich voranzutreiben. 
 
