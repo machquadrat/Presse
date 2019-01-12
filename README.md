@@ -11,6 +11,9 @@ Das machquadrat soll u.a. Künstler, Informatiker und Forscher zusammen bringen,
 Zirka 10 Personen stützen derzeit die Anstrengungen des Teams, viele davon entstammen einer technischen Ausbildung, aber es sind auch Personen im Team, die eine kaufmännische oder klassische handwerkliche Ausbildung genossen haben. 
 
 In Österreich gibt es nach Auskunft der selbsternannten "Geeks" bereits mehrere solcher Hackerspaces an denen man sich orientiert. Vor allem das „Metalab“ in Wien und der „realraum“ mit dem eigenen Bio-Labor in Graz sind vielen Hackern auch über die österreichische Grenze hinaus bekannt. 
-Um sich Interessierten und Neugierigen vorzustellen, hat man gemeinsam eine informative Homepage erstellt, die man unter www.machquadrat.org findet.  Derweil suchen die Hacker noch nach dem passenden "Space" und würden sich über jegliche Hilfestellung freuen. „Ca 50 m2 oder mehr sollte der Raum schon haben und Sanitäranlagen wären natürlich auch sehr wichtig. Der Rest kann, wie sollte es anders sein, von uns ‚zurechtgehackt‘ werden“, gibt man lächelnd zur Auskunft. 
- 
+
+Um sich Interessierten und Neugierigen vorzustellen, hat man gemeinsam eine informative Homepage erstellt, die man unter www.machquadrat.org findet.
+
+Derweil suchen die Hacker noch nach dem passenden "Space" und würden sich über jegliche Hilfestellung freuen. „Ca 50 m2 oder mehr sollte der Raum schon haben und Sanitäranlagen wären natürlich auch sehr wichtig. Der Rest kann, wie sollte es anders sein, von uns ‚zurechtgehackt‘ werden“, gibt man lächelnd zur Auskunft. 
+
 Falls Sie einen Raum besitzen oder von einem Raum wissen, der dem Verein zur Verfügung gestellt werden könnte, wären die Mitglieder über eine e-mail an orga@machquadrat.org erfreut. 
